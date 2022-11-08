@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-016 - Verify user must be SUCCESS to stay inside Authentification Bank Menu when user click Resend Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9f3d3293-3a93-4f46-bb8d-3a0b9c2bed24</testCaseGuid>
+</TestCaseEntity>

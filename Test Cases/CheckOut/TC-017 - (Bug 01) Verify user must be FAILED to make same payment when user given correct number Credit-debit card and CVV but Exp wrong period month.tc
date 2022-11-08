@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-017 - (Bug 01) Verify user must be FAILED to make same payment when user given correct number Credit-debit card and CVV but Exp wrong period month</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3aca767f-3186-4202-bf79-af84d8360a69</testCaseGuid>
+</TestCaseEntity>

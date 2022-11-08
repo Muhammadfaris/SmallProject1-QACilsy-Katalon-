@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-023 - Verify user must be SUCCESS to make same payment when user given correct account Credit-debit card and click another promotion list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9408a9c8-c935-4f69-9962-d5c904f87d55</testCaseGuid>
+</TestCaseEntity>

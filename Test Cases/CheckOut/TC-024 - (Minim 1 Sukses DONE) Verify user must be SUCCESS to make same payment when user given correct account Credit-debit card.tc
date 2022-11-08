@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-024 - (Minim 1 Sukses DONE) Verify user must be SUCCESS to make same payment when user given correct account Credit-debit card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b8820584-0545-4f80-8243-e7a90b7ad2c0</testCaseGuid>
+</TestCaseEntity>

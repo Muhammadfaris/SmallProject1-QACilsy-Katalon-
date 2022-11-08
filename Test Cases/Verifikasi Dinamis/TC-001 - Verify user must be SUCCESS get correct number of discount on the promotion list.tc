@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001 - Verify user must be SUCCESS get correct number of discount on the promotion list</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d558710c-4b79-4825-8b5f-39ce97a51d84</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-014 - Verify user must be SUCCESS direct into Authentification Bank Menu when user given correct account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c3087a73-e383-4bce-a120-3dc2700f8c6e</testCaseGuid>
+</TestCaseEntity>

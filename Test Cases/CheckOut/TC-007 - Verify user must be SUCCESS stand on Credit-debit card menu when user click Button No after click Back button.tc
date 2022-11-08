@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-007 - Verify user must be SUCCESS stand on Credit-debit card menu when user click Button No after click Back button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a44e985e-4c5b-486f-a17b-189ee64dff27</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001 - Verify user must be SUCCESS direct into Shopping Chart when user click Buy Now Button</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38814737-d141-4526-9a7c-d16ee3b94c5f</testCaseGuid>
+</TestCaseEntity>

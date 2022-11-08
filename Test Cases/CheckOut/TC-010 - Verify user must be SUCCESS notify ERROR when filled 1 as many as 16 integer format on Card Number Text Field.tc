@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-010 - Verify user must be SUCCESS notify ERROR when filled 1 as many as 16 integer format on Card Number Text Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55789584-1663-42e6-874a-0517678cd5d4</testCaseGuid>
+</TestCaseEntity>

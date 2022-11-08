@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-002 - Verify user must be SUCCESS direct into Home Page when user click Cancel Button on Shopping Chart Menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23effb21-d8e2-4b1c-ba08-df32c103e4c8</testCaseGuid>
+</TestCaseEntity>

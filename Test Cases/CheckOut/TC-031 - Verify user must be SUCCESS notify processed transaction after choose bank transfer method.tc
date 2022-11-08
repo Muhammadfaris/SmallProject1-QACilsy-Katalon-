@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-031 - Verify user must be SUCCESS notify processed transaction after choose bank transfer method</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aad44fb-2b43-4195-b8ec-fafcb06b52b9</testCaseGuid>
+</TestCaseEntity>

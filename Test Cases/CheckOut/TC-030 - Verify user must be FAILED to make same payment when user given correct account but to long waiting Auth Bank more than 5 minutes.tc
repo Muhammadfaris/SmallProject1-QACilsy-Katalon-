@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-030 - Verify user must be FAILED to make same payment when user given correct account but to long waiting Auth Bank more than 5 minutes</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23ebc78d-361a-4163-8e8f-b29de440b6e7</testCaseGuid>
+</TestCaseEntity>

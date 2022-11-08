@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-006 - Verify user must be SUCCESS direct into Payment List Method again after user click Back button and confirm yes on Credit-debit card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af483e03-adee-4dec-971f-14febf5ba397</testCaseGuid>
+</TestCaseEntity>

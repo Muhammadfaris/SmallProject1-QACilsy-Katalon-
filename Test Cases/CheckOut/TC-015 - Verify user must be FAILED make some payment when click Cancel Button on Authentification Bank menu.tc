@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-015 - Verify user must be FAILED make some payment when click Cancel Button on Authentification Bank menu</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f277fa9c-cb62-4242-8bd2-1de8ccc2f4b2</testCaseGuid>
+</TestCaseEntity>

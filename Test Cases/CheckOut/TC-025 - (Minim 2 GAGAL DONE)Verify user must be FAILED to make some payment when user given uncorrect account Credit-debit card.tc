@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-025 - (Minim 2 GAGAL DONE)Verify user must be FAILED to make some payment when user given uncorrect account Credit-debit card</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6241334f-4b50-44b1-9d20-8df2a7c43694</testCaseGuid>
+</TestCaseEntity>
